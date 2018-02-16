@@ -1,0 +1,1 @@
+git mv => Instead of having to manually rename a file then having to re add the files again, use git mv to do them all at once.
