@@ -10,5 +10,9 @@ BASIC WORKFLOW COMMANDS:
 Moving data from working area to index/staging area => git add is used
 Moving data from index/staging to repository => git commit
 Moving data from repository to index/staging area => git checkout<file>
-Moving data from index to working area => git reset <file name>
+#Moving data from index to working area => git reset <file name>
+	
+	CHECKOUT:
+  >git checkout moves the head to a different commit #Current commit change so we see different data
+  >Copies data from repository to working area and repository
 
