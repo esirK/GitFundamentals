@@ -1,0 +1,8 @@
+
+Branches are entry point of historywq
+HEAD:
+-> Points to current commit
+-> Delete one branch all commits become unreachable
+->
+INDEX Storage Area/ Staging Area:
+Stands b2n working area and repository
