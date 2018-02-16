@@ -1,3 +1,4 @@
 UNTRACKED FILES:
 -> Files that are on working area but not staged yet
-Life's sweet
+Two
+What a fucked up life man
