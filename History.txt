@@ -1,0 +1,3 @@
+Exploring the past in git
+>git blame 
+>git diff -compare stuff e.g commits
